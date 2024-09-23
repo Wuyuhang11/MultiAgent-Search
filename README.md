@@ -4,7 +4,7 @@
 **MultiAgent-Search**利用多**Agent**识别上海市松江大学城图像，识别过程很好地模拟了人类思考图像位置的过程，以进行图像寻址，如：上海工程技术大学松江校区-图书馆等，在图像寻址功能上超越了**ChatGPT4o**与**文心一言3.5**等大模型。
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ff8f3b50-44f7-44a0-b45b-02f58e0c66e7" alt="Search-SongJiang" />
+    <img src="https://github.com/user-attachments/assets/bcd6ee2e-adcc-4e2e-8461-f79f0ca50303" alt="Search-SongJiang" />
 </div>
 
 ## 2.功能展示图
