@@ -3,7 +3,7 @@ from game.utils.process_web_data import extract_urls, extract_snippets
 from game.utils.process_web_model import extract_places_byModel
 
 # 直接在代码中填入 API 密钥ai
-BOCHA_API_KEY = 'sk-41d21b258d5c4e68a08d9821745bee21'
+BOCHA_API_KEY = 'xxxxxxxxxxxxxxxxx'
 
 
 # 1.定义博查 Web 搜索的工具函数
