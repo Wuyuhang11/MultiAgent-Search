@@ -25,7 +25,7 @@ def amap_place_search(keywords, city=None, types=None, citylimit=False, offset=2
     params = {
         "keywords": keywords,
         "city": city,
-        "key": "04708221844d5c25b001370f52a83791",
+        "key": "xxxxxxxxxxxxxxxx",
         "types": types,
         "citylimit": "true" if citylimit else "false",
         "offset": offset,
