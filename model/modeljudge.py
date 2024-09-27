@@ -4,11 +4,11 @@ from langchain_core.prompts import PromptTemplate
 import chardet
 
 # 1. 设置API密钥
-os.environ["DASHSCOPE_API_KEY"] = "sk-d07d9d5c4d8d4158abbaf45a40c10042"
+os.environ["DASHSCOPE_API_KEY"] = "xxxxxxxxxxxxxxxxxx"
 
 # 2. 导入所需的库和模型
-DASHSCOPE_API_KEY = "sk-d07d9d5c4d8d4158abbaf45a40c10042"
-llm = Tongyi(dashscope_api_key="sk-d07d9d5c4d8d4158abbaf45a40c10042", model="qwen-plus")
+DASHSCOPE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxx"
+llm = Tongyi(dashscope_api_key="sxxxxxxxxxxxxxxxxxxxxxx", model="qwen-plus")
 
 # 3. 设置template
 template = """你现在扮演的是一名地址特征比较工程师，请利用传入的图片主特征{maintraits}，与文件内容{filecontents}中的Small Place的Traits进行比较，分析其原因，返回特征最接近的Small Place。
