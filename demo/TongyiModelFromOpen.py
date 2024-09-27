@@ -5,12 +5,12 @@ from langchain.agents import AgentType
 from langchain_community.llms import Tongyi
 
 # 设置API密钥
-os.environ["SERPAPI_API_KEY"] = "31a3c96f0ce535fd1b43117d3c9298c66753b6dae1da9074708f03ecc8282367"
-os.environ["DASHSCOPE_API_KEY"] = "sk-d07d9d5c4d8d4158abbaf45a40c10042"
+os.environ["SERPAPI_API_KEY"] = "xxxxxxxxxxxxxxxx"
+os.environ["DASHSCOPE_API_KEY"] = "sk-xxxxxxxxxxxxx"
 
 # 导入所需的库和模型
-DASHSCOPE_API_KEY = "sk-d07d9d5c4d8d4158abbaf45a40c10042"
-llm = Tongyi(dashscope_api_key = "sk-d07d9d5c4d8d4158abbaf45a40c10042", model = "qwen-plus")
+DASHSCOPE_API_KEY = "sk-xxxxxxxxxxxxxxx"
+llm = Tongyi(dashscope_api_key = "sk-xxxxxxxxxxxxxxxxxx", model = "qwen-plus")
 
 search = SerpAPIWrapper()
 tools = [
