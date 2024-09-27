@@ -30,12 +30,12 @@ class SiliconFlowModel(Runnable):
 
 # 设置 API Keys
 # os.environ["DASHSCOPE_API_KEY"] = '替换为你的DASHSCOPE_API_KEY'
-os.environ["SERPAPI_API_KEY"] = '31a3c96f0ce535fd1b43117d3c9298c66753b6dae1da9074708f03ecc8282367'
+os.environ["SERPAPI_API_KEY"] = 'xxxxxxx'
 
 # 初始化 SiliconFlow 模型
 silicon_model = SiliconFlowModel(
     api_url="https://api.siliconflow.example/v1/models", 
-    api_key="kifqepgmrmlstabhxlmxrylkppvcppumtvwcdbwajgotuvvk"
+    api_key="xxxxxxxxxxx"
 )
 
 # 加载工具
