@@ -12,9 +12,9 @@ from wsgiref.handlers import format_date_time
 import websocket
 
 # 定义API凭证变量
-appid = "2ef09001"  # APPID
-api_secret = "YTViOGRlNDUxYzUxNGQ1YzBiMjY1OTc4"  # APISecret
-api_key = "8a8b0b84743a48f15f9ffd96d962a024"  # APIKey
+appid = "xxxxxxxx"  # APPID
+api_secret = "xxxxxxxxxxxx"  # APISecret
+api_key = "xxxxxxxxxxxxxxxxxx"  # APIKey
 imagedata = open("SUES03.png", 'rb').read()  # 打开并读取图片文件
 
 # 设置图像理解服务的WebSocket URL
