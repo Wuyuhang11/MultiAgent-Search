@@ -3,7 +3,7 @@ import os
 from game.utils.image_read import encode_image
 
 # 设置环境变量，存储 API 密钥
-os.environ["DASHSCOPE_API_KEY"] = "sk-d07d9d5c4d8d4158abbaf45a40c10042"
+os.environ["DASHSCOPE_API_KEY"] = "xxxxxxxxxxxx"
 
 """
 1.通过tongyi-VL识别图像位置
@@ -13,7 +13,7 @@ os.environ["DASHSCOPE_API_KEY"] = "sk-d07d9d5c4d8d4158abbaf45a40c10042"
 def get_image_place(image_path, user_question):
     base64_image = encode_image(image_path)
     client = OpenAI(
-        api_key="sk-d07d9d5c4d8d4158abbaf45a40c10042",
+        api_key="xxxxxxxxxxxxxxxxxxxx",
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
     )
     completion = client.chat.completions.create(
@@ -48,7 +48,7 @@ def get_image_place(image_path, user_question):
 def get_image_traits(image_path):
     base64_image = encode_image(image_path)
     client = OpenAI(
-        api_key="sk-d07d9d5c4d8d4158abbaf45a40c10042",
+        api_key="xxxxxxxxxxxxxxxxxxxxxxxx",
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
     )
     completion = client.chat.completions.create(
