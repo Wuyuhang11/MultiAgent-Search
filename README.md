@@ -31,6 +31,8 @@
 
 **结论：** 同理，可以发现`文心一言3.5`在图像寻址上效果并不好，也并没有达到人类思考图像位置的能力。
 
+## 4.最终效果
+![903a6230f0c46df636a4a3f3cb1541e](https://github.com/user-attachments/assets/cd43be64-b005-48cb-b07e-31cef6574eff)
 
 
 
