@@ -12,7 +12,8 @@
 ## 2.功能展示图
 
 <div align="center">
-    <img src="[https://github.com/user-attachments/assets/bcd6ee2e-adcc-4e2e-8461-f79f0ca50303](https://github.com/user-attachments/assets/a4e9385b-e82c-44a1-b271-cd0a66acac3f)" alt="Show" />
+    <img src="![image](https://github.com/user-attachments/assets/9695c8ec-821e-4890-a121-3d2c19e5d10e)
+" alt="Show" />
 </div>
 
 
