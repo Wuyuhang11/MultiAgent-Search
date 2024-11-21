@@ -10,11 +10,8 @@
 </div>
 
 ## 2.功能展示图
+![61d7550e63e6facb77c8407de8ade47](https://github.com/user-attachments/assets/4483848c-5074-4cc9-9d05-30c828484585)
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/9695c8ec-821e-4890-a121-3d2c19e5d10e
-" alt="Show" />
-</div>
 
 
 ## 3.效果对比
