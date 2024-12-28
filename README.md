@@ -7,7 +7,7 @@
 
 **展示：**
 <div align="center">
-     <img src="![MultiAgent](https://github.com/user-attachments/assets/d2bfc310-3f2e-43ba-a712-1e0fe7236ed2)" alt="Search-SongJiang" />
+     <img src="https://github.com/user-attachments/assets/d2bfc310-3f2e-43ba-a712-1e0fe7236ed2" alt="Search-SongJiang" />
 </div>
 
 <div align="center">
