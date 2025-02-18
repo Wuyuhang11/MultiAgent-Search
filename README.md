@@ -2,14 +2,16 @@
 
 ## 0.鸣谢
 感谢上海人工智能实验室书生浦语大模型的支持，感谢实训营提供的赞助和机会。
-
-**展示：**
 <div align="center">
      <img src="https://github.com/user-attachments/assets/d2bfc310-3f2e-43ba-a712-1e0fe7236ed2" alt="Search-SongJiang" />
 </div>
 
-[![](https://github.com/user-attachments/assets/809616ce-0e28-44e6-b9ac-1cadae297234)](https://www.bilibili.com/video/BV1BcUmYtESj/?spm_id_from=333.1387.homepage.video_card.click)
+**展示：**
 
+<div align="center">
+     **点击观看内容详情**
+     [![](https://github.com/user-attachments/assets/809616ce-0e28-44e6-b9ac-1cadae297234)](https://www.bilibili.com/video/BV1BcUmYtESj/?spm_id_from=333.1387.homepage.video_card.click)
+</div>
 
 
 
