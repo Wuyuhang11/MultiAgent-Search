@@ -8,7 +8,10 @@
      <img src="https://github.com/user-attachments/assets/d2bfc310-3f2e-43ba-a712-1e0fe7236ed2" alt="Search-SongJiang" />
 </div>
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113519106197047&bvid=BV1BcUmYtESj&cid=26872186506&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[![](https://github.com/user-attachments/assets/809616ce-0e28-44e6-b9ac-1cadae297234)](https://www.bilibili.com/video/BV1BcUmYtESj/?spm_id_from=333.1387.homepage.video_card.click)
+
+
+
 
 
 ## 1.介绍
