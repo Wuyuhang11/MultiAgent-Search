@@ -9,13 +9,16 @@
 **展示：**
 
 <div align="center" style="font-weight: bold;">
-     **点击观看内容详情**  
+     
+**点击观看内容详情**  
+
 </div>
 
 <div align="center">
-     [![](https://github.com/user-attachments/assets/809616ce-0e28-44e6-b9ac-1cadae297234)](https://www.bilibili.com/video/BV1BcUmYtESj/?spm_id_from=333.1387.homepage.video_card.click)
-</div>
+     
+[![](https://github.com/user-attachments/assets/809616ce-0e28-44e6-b9ac-1cadae297234)](https://www.bilibili.com/video/BV1BcUmYtESj/?spm_id_from=333.1387.homepage.video_card.click)
 
+</div>
 
 
 
