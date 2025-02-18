@@ -1,7 +1,9 @@
+<div style="font-family: Simsun;">
+
 # MultiAgent-Search：基于多智能体识别图像位置
 
 ## 0.鸣谢
-感谢[**上海人工智能实验室书生浦语大模型**](https://internlm.openxlab.org.cn/)以及[**熊玉洁导师**](https://xiongyujie.cn/introduce.html)的支持，感谢实训营提供的赞助和机会。
+感谢 [**上海人工智能实验室书生浦语大模型**](https://internlm.openxlab.org.cn/) 以及 [**熊玉洁导师**](https://xiongyujie.cn/introduce.html) 的支持，感谢实训营提供的赞助和机会。
 
 
 ## 1.展示(点击进入)：
@@ -44,5 +46,5 @@
 ## 5.最终效果
 ![903a6230f0c46df636a4a3f3cb1541e](https://github.com/user-attachments/assets/cd43be64-b005-48cb-b07e-31cef6574eff)
 
-
+</div>
 
