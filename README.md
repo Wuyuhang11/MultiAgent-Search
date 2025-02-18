@@ -8,6 +8,9 @@
      <img src="https://github.com/user-attachments/assets/d2bfc310-3f2e-43ba-a712-1e0fe7236ed2" alt="Search-SongJiang" />
 </div>
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113519106197047&bvid=BV1BcUmYtESj&cid=26872186506&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+
 ## 1.介绍
 **MultiAgent-Search**是基于InternLM书生浦语大模型实现的多智能体项目，在图寻地址方面为全球首创，旨在利用多**Agent**识别上海市松江大学城图像，识别过程很好地模拟了人类思考图像位置的过程，以进行图像寻址，如：上海工程技术大学松江校区-图书馆等，在图像寻址功能上超越了**ChatGPT4o**与**文心一言3.5**等大模型。
 
