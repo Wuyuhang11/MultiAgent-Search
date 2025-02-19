@@ -42,7 +42,15 @@
 
 
 ## 6. 引用
-
+@software{Lisa_My_Research_Software_2017,
+  author = {Lisa, Mona and Bot, Hew},
+  doi = {10.5281/zenodo.1234},
+  month = {12},
+  title = {{My Research Software}},
+  url = {https://github.com/github-linguist/linguist},
+  version = {2.0.4},
+  year = {2017}
+}
 @misc{Wu2024MultiAgentSearch,
     title={MultiAgent-Search: 基于多智能体识别图像位置},
     author={Yuhang Wu and Henghua Zhang},
