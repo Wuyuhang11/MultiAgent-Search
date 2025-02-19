@@ -35,16 +35,17 @@
     <img src="https://github.com/user-attachments/assets/7f29e7dc-4285-4129-921e-7d00e5fc2fee" alt="文心一言3.5" />
 </div>
 
-## 5. 引用
-@misc{
-    Wu2024MultiAgent-Search,
-    title={MultiAgent-Search：基于多智能体识别图像位置},
-    author={Yuhang Wu and Henghua Zhang},
-    year={2024},
-    howpublished={\url{https://github.com/Wuyuhang11/MultiAgent-Search}},
-}
-
 **结论：** 同理，可以发现`文心一言3.5`在图像寻址上效果并不好，也并没有达到人类思考图像位置的能力。
 
 ## 5.最终效果
 ![903a6230f0c46df636a4a3f3cb1541e](https://github.com/user-attachments/assets/cd43be64-b005-48cb-b07e-31cef6574eff)
+
+
+## 6. 引用
+
+@misc{Wu2024MultiAgentSearch,
+    title={MultiAgent-Search: 基于多智能体识别图像位置},
+    author={Yuhang Wu and Henghua Zhang},
+    year={2024},
+    url={<url id="cuqmhcd43355nsg2o9dg" type="url" status="parsed" title="GitHub - Wuyuhang11/MultiAgent-Search: 利用多Agent对区域进行地址提取" wc="6723">https://github.com/Wuyuhang11/MultiAgent-Search</url>},
+}
