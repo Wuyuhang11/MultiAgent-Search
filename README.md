@@ -35,6 +35,15 @@
     <img src="https://github.com/user-attachments/assets/7f29e7dc-4285-4129-921e-7d00e5fc2fee" alt="文心一言3.5" />
 </div>
 
+## 5. 引用
+@misc{
+    Wu2024MultiAgent-Search,
+    title={MultiAgent-Search：基于多智能体识别图像位置},
+    author={Yuhang Wu and Henghua Zhang},
+    year={2024},
+    howpublished={\url{https://github.com/Wuyuhang11/MultiAgent-Search}},
+}
+
 **结论：** 同理，可以发现`文心一言3.5`在图像寻址上效果并不好，也并没有达到人类思考图像位置的能力。
 
 ## 5.最终效果
