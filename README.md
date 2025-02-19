@@ -42,18 +42,12 @@
 
 
 ## 6. 引用
-@software{Lisa_My_Research_Software_2017,
-  author = {Lisa, Mona and Bot, Hew},
-  doi = {10.5281/zenodo.1234},
-  month = {12},
-  title = {{My Research Software}},
-  url = {https://github.com/github-linguist/linguist},
-  version = {2.0.4},
-  year = {2017}
-}
+
+```bibtex
 @misc{Wu2024MultiAgentSearch,
     title={MultiAgent-Search: 基于多智能体识别图像位置},
     author={Yuhang Wu and Henghua Zhang},
     year={2024},
     url={<url id="cuqmhcd43355nsg2o9dg" type="url" status="parsed" title="GitHub - Wuyuhang11/MultiAgent-Search: 利用多Agent对区域进行地址提取" wc="6723">https://github.com/Wuyuhang11/MultiAgent-Search</url>},
 }
+```
