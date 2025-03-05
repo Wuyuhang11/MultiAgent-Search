@@ -51,6 +51,6 @@
     title={MultiAgent-Search: 基于多智能体识别图像位置},
     author={Yuhang Wu and Henghua Zhang},
     year={2024},
-    url={<url id="cuqmhcd43355nsg2o9dg" type="url" status="parsed" title="GitHub - Wuyuhang11/MultiAgent-Search: 利用多Agent对区域进行地址提取" wc="6723">https://github.com/Wuyuhang11/MultiAgent-Search</url>},
+    url={<url id="cuqmhcd43355nsg2o9dg" type="url" status="parsed" title="GitHub - Wuyuhang11/MultiAgent-Search" wc="6723">https://github.com/Wuyuhang11/MultiAgent-Search</url>},
 }
 ```
