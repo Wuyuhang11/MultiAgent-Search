@@ -1,0 +1,96 @@
+html {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 800px;
+    background-image: linear-gradient(180deg, #f1f5fd, rgba(255, 255, 255, 0) 100%);
+}
+
+.title {
+    margin-top: 64px;
+    font-weight: bold;
+    font-size: 48px;
+    color: #343f52;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.button {
+    text-align: center;
+}
+
+.button a {
+    display: inline-block;
+    color: #fff;
+    background-color: #3f78e0;
+    padding: 13px 28px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 26px;
+    text-decoration: none;
+    margin: 0 5px;
+    border: 2px solid #3f78e0;
+    transition: all 0.3s ease-in-out;
+}
+
+.button a:hover {
+    transform: translateY(-4px);
+}
+
+.player {
+    margin-top: 48px;
+    text-align: center;
+    padding-bottom: 64px;
+}
+
+img {
+    border-radius: 32px;
+    border: 2px solid black;
+}
+
+#videoBtn {
+    color: #3f78e0;
+    border: 2px solid #3f78e0;
+    background-color: #fff;
+}
+
+#videoBtn:hover {
+    color: #fff;
+    background-color: #3f78e0;
+}
+
+.wrap {
+    display: inline-block;
+    width: 0;
+    overflow: hidden;
+    animation: fadeInRight 3s forwards;
+}
+
+@keyframes fadeInRight {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 800px;
+    }
+}
+
+.video-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none;
+}
+
+.video-wrapper video {
+    width: 50%;
+    position: relative;
+    left: 25%;
+    top: 50%;
+    transform: translateY(-50%);
+}
