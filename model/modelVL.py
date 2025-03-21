@@ -124,7 +124,7 @@ def get_other_image_traits(image_paths):
 
     # 创建 OpenAI 客户端
     client = OpenAI(
-        api_key="sk-d07d9d5c4d8d4158abbaf45a40c10042",
+        api_key="xxxxxxxxxxxxxxxx",
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
     )
 
